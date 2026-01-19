@@ -16,6 +16,8 @@ Check in each case before you commence work, as there may be some variation, but
 * Results (10%)
 * Conclusion (70%)
 
+Check the rubric for exact weightings.
+
 Regardless of the level, lab books should be professional and well presented. No marks will be awarded for good presentation, this is expected. However, marks will be deducted for poor presentation, grammar, or spelling.
 
 Screen shots and images should never be presented in isolation (e.g., without text) and should only be used where they contribute to the information presented. All such images should be labelled with a figure number and description.
