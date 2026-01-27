@@ -4,7 +4,7 @@ description: The headings and content of a standard report
 
 # Report Layout
 
-Generally, use the provided template and maintain the same styles, fonts and sizes, headings, etc.
+Generally, use the provided template and maintain the same styles, fonts and sizes, headings, etc. Introduce and conclude each section, this report should read like a narrative.
 
 Any laboratory report will start with some basic header fields, which need little explanation.
 
@@ -42,6 +42,12 @@ At the end of this section, briefly discuss your results.
 
 ### Discussion/Conclusions <a href="#discussion-conclusions" id="discussion-conclusions"></a>
 
-The final section of your report are your conclusions. In this section of your report, you discuss the results, you interpret them, and you assign significance to the results. It would be normal for the conclusions to tie closely to the original hypothesis or aims. You should state how long the work took. By award year, there is an expectation that you are reading widely. A conclusion will normally show evidence of independent study and references should be provided. You should cite the references from within the narrative.
+The final section of your report are your conclusions. In this section of your report, you discuss the results, you interpret them, and you assign significance to the results. It would be normal for the conclusions to tie closely to the original hypothesis or aims. You should state how long the work took.&#x20;
+
+By award year, there is an expectation that you are reading widely. A conclusion will normally show evidence of independent study. The length depends on the work, but typically four paragraphs with references cited.
+
+Give a closing sentence.
+
+### General
 
 The final document should be readable and should have a natural flow. If you have code listings, configuration listings, diagrams etc. they should be included in appendices.
